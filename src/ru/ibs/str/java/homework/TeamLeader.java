@@ -9,11 +9,6 @@ public class TeamLeader extends Employee implements Manager{
         super(name, id, direction);
     }
 
-    @Override
-    public void debag() {
-
-    }
-
     public TeamLeader(String name, int id, String direction, String experience, String nameProject) {
         super(name, id, direction);
         this.experience = experience;

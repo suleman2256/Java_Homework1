@@ -34,6 +34,4 @@ public abstract class Employee {
     public void setDirection(String direction) {
         this.direction = direction;
     }
-
-    public abstract void debag();
 }

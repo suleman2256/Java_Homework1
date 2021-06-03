@@ -45,7 +45,6 @@ public class Trainee extends Employee{
         System.out.println("Практика, практика и ещё раз практика...");
     }
 
-    @Override
     public void debag (){
         System.out.println("Опять ошибки...");
     }

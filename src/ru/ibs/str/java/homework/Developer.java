@@ -49,7 +49,6 @@ public class Developer extends Employee {
         System.out.println("Запускаю приложение");
     }
 
-    @Override
     public void debag() {
         System.out.println("Исправляю баги");
     }
